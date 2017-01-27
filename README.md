@@ -26,5 +26,6 @@ Arguments:
         to achieve a target inactivity rate. See Analysis options in this code for more details.
 
 Example:
+
     > python pychess.py process -i seva_export/ -o seva_study.json
     > python pychess.py analyze -i seva_study.json -o seva_analysis.json
